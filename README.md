@@ -4,28 +4,82 @@ https://www.figma.com/design/SI696t31Q9zlsXKttCoqKP/Angular%3A-Componentiza%C3%A
 
 https://fonts.google.com/icons?hl=pt-br
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+<img src="./src/assets/imagens/banner-homepage.png" alt="PRs welcome!" /><br>
 
-## Development server
+<p align="center">
+  <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#technologies">Tecnologias usadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;
+  <a href="#preview">Prévia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rodar">Como rodar os testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">Licença</a>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=04d361&labelColor=000000" alt="PRs welcome!" />
 
-## Code scaffolding
+  <img alt="License" src="https://img.shields.io/badge/Made%20by-Ruth%20Maria-%2304D361">
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=04d361&labelColor=000000">
+</p>
 
-## Build
+<a id="about"></a>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## :books: Sobre
 
-## Running unit tests
+O Jornada milhas é uma aplicação que permite comprar passagens aéreas.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+O curso explora a componentização, criando interfaces modulares e de fácil manutenção, utilizando o Angular Material.
 
-## Running end-to-end tests
+[Figma da aplicação](https://www.figma.com/design/SI696t31Q9zlsXKttCoqKP/Angular%3A-Componentiza%C3%A7%C3%A3o-e-Design-com-Angular-Material-%7C-Jornada-Milhas?node-id=0-1&t=GqXifEzZXjxSSVUY-0)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<a id="technologies"></a><br>
 
-## Further help
+## ⚒️ Tecnologias usadas
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- HTML
+- CSS
+- RxJs
+- Angular
+- Typescript
+- Angular Material
+- [Google icons](https://fonts.google.com/icons?hl=pt-br)
+
+<a id="preview"></a><br>
+
+## :tv: Prévia
+
+![video](./src/assets/videos/video.gif)
+
+<a id="rodar"></a><br>
+
+## 🚀 Como rodar os testes
+
+- Clonar este repositório
+
+```
+git clone https://github.com/RuthMaria/3150-jornada-milhas.git
+```
+
+- Instalar as dependêncies
+
+```
+npm install
+```
+
+- Rodar o projeto
+
+```
+npm run start
+```
+
+<a id="license"></a><br>
+
+## :memo: Licença
+
+Este projeto está sob licença do MIT. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+
+---
+
+<h4 align="center">
+    Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/ruth-maria-9b256071/" target="_blank">Ruth Maria</a>
+</h4>
